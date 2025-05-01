@@ -1,3 +1,4 @@
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 <h1 align="center">🌟 Hey There!  I'm Babai 🌟</h1>
 
 **`Building for the Web`**
