@@ -28,7 +28,7 @@ I'm a student passionate about full-stack development, honing my skills through 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arcade-With-Us&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ---
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Arcade-With-Us&theme=nightowl&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Arcade-With-Us&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
