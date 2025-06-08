@@ -11,7 +11,6 @@ I'm a student passionate about full-stack development, honing my skills through 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=600&lines=Web+Developer+in+the+making...;Lifelong+Learner+%26+Coder!;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
-
 ---
 
 # 💫 About Me:
