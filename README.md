@@ -1,9 +1,6 @@
 <img src="" alt="GitHub Banner" width="100%" />
 <h1 align="center">🌟 Hey There!  I'm Babai 🌟</h1>
 
-**`Building for the Web`**
-
-I'm a student passionate about full-stack development, honing my skills through hands-on projects. From planning and design to tackling real-world problems with code, I build everything from the ground up.
 <div align="center">
   <img src="https://github.com/shreyakmukherjee/shreyakmukherjee/blob/main/animated_developer.gif" alt="Animated Developer Illustration" style="width: 200px;"/>
 </div>
@@ -12,6 +9,7 @@ I'm a student passionate about full-stack development, honing my skills through 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=600&lines=Web+Developer+in+the+making...;Lifelong+Learner+%26+Coder!;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
+I'm a student passionate about full-stack development, honing my skills through hands-on projects. From planning and design to tackling real-world problems with code, I build everything from the ground up.
 ---
 
 # 💫 About Me:
