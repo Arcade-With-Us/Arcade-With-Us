@@ -1,4 +1,4 @@
-<img src="ChatGPT Image May 25, 2025, 10_31_56 PM.png" alt="GitHub Banner" width="100%" />
+<img src="" alt="GitHub Banner" width="100%" />
 <h1 align="center">🌟 Hey There!  I'm Babai 🌟</h1>
 
 **`Building for the Web`**
