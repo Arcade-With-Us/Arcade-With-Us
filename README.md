@@ -17,6 +17,9 @@ I'm a student passionate about full-stack development, honing my skills through 
 # 💫 About Me:
 🔭 I’m currently working on: Integrating innovative features into my website, including Crisp chat and Enum platform functionalities.<br>👯 I’m looking to collaborate on: Web development projects IoT prtojects and contributions to GitHub open-source repositories.<br>🤝 I’m looking for help with: Enhancing API integrations using Postman and exploring new animation techniques with GSAP.<br>🌱 I’m currently learning: Antenna and wireless communication, Arduino UNO and  morte curious about Robotics and automnation, and DSA for structured problem-solving.<br>💬 **Ask me about:** Web development, Communication, Latest Terchnologies frontend animations, and integrating chatbots with platforms.<br>🎓 **Pursuing:** B.Tech in Electronics & Communication Engineering, set to graduate in 2026.<br>⚡ **Fun fact:** I am a District level player in Cricket, but can't follow my passion.
 
+## Interested in
+<img src="dsc_logo.png" alt="GitHub Banner" width="100%" />
+
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abir-dey-a34914254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyak-mukherjee-203558275" height="30" width="40" /></a>
