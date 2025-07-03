@@ -2,7 +2,6 @@
 <h1 align="center">🌟 Hey There!  I'm Babai 🌟</h1>
 
 <div align="center">
-  <img src="https://github.com/shreyakmukherjee/shreyakmukherjee/blob/main/animated_developer.gif" alt="Animated Developer Illustration" style="width: 200px;"/>
 </div>
 <!-- Typing Animation -->
 <p align="center">
