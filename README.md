@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=600&lines=Web+Developer+in+the+making...;Lifelong+Learner+%26+Coder!;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
----
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
 
 # 💫 About Me:
 🔭 I’m currently working on: Integrating innovative features into my website, including Crisp chat and Enum platform functionalities.<br>👯 I’m looking to collaborate on: Web development projects IoT prtojects and contributions to GitHub open-source repositories.<br>🤝 I’m looking for help with: Enhancing API integrations using Postman and exploring new animation techniques with GSAP.<br>🌱 I’m currently learning: Antenna and wireless communication, Arduino UNO and  morte curious about Robotics and automnation, and DSA for structured problem-solving.<br>💬 **Ask me about:** Web development, Communication, Latest Terchnologies frontend animations, and integrating chatbots with platforms.<br>🎓 **Pursuing:** B.Tech in Electronics & Communication Engineering, set to graduate in 2026.<br>⚡ **Fun fact:** I am a District level player in Cricket, but can't follow my passion.
