@@ -7,7 +7,7 @@
 </div>
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&width=600&lines=Web+Developer+in+the+making...;font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&width=600&lines=Google+Cloud+Arcade+Facilitator;font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&width=600&lines=InternShala+Student+Mentor;font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&width=600&lines=Naukri+Campus+Student+Ambassador;font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&width=600&lines=GFG+Campus+Mantri;font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&width=600&lines=Lifelong+Learner+%26+Coder!;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&width=600&lines=Web+Developer+in+the+making...;font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&width=600&lines=Google+Cloud+Arcade+Facilitator;font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&width=600&lines=InternShala+Student+Mentor;Lifelong+Learner+%26+Coder!;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
@@ -40,13 +40,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arcade-With-Us/Arcade-With-Us/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Arcade-With-Us/Arcade-With-Us/output/github-snake.svg" />
 </picture>
-
-<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Arcade-With-Us&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Arcade-With-Us&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arcade-With-Us&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
 
